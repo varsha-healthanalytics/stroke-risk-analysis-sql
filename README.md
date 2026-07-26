@@ -10,7 +10,7 @@ This project demonstrates how SQL can transform healthcare data into meaningful 
 
 ### Stroke Prevalence by Smoking Status
 
-![Stroke Prevalence by Smoking Status](images/Stroke%20prevalence_%26_smoking_status.png)
+![Stroke Prevalence by Smoking Status](images/Stroke prevalence_&_smoking_relation.png)
 
 ### High-Risk Patient Identification
 
